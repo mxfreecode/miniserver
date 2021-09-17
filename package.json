@@ -1,0 +1,19 @@
+{
+  "name": "express",
+  "version": "1.0.0",
+  "description": "Curso de BackEnd con Express",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mxfreecode/miniserver.git"
+  },
+  "author": "Mx Free Code",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/mxfreecode/miniserver/issues"
+  },
+  "homepage": "https://github.com/mxfreecode/miniserver#readme"
+}
